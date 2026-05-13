@@ -1,0 +1,27 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Editor y IDE
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-workspace
+
+# Herramientas de desarrollo
+node_modules/
+package-lock.json
+yarn.lock
+
+# Archivos de compilación
+dist/
+build/
+
+# Caché
+.cache/
+*.cache
+
+# Archivos locales (si aplica)
+config.local.js
+.env.local
